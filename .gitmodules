@@ -1,0 +1,3 @@
+[submodule "based-pear"]
+	path = based-pear
+	url = https://github.com/cancrizans/based-pear.git
