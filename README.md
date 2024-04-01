@@ -2,11 +2,13 @@
 
 Long and long gone. I make comix and videogames and a bunch of other things
 
-## webcomics
+## webcomics & so-called "art"
 
 [Flesh Kernel](https://fleshkernel.com) - aliens, gods and madness in the 24th century.
 
 [Lemma](https://cancrizans.github.io/lemma) - strange, strange science.
+
+[Art blog](https://bsky.app/profile/cancrizans.bsky.social) on Bluesky.
 
 ## videos games
 
