@@ -1,10 +1,8 @@
-# cancrizans canon
-
 Long and long gone.
 
 ## videos games
 
-I am 100% of **bad_vertex** - [@BadVertexDev](https://x.com/BadVertexDev) on xitter
+I am 100% of **bad_vertex** - @[BadVertexDev](https://x.com/BadVertexDev) on xitter
 
 My games:
 
