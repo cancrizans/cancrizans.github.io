@@ -7,7 +7,7 @@ I am 100% of **bad_vertex** - @[BadVertexDev](https://x.com/BadVertexDev) on xit
 My games:
 
 - coming May 2027 | [Innards](https://store.steampowered.com/app/5315070/Innards/) clay-like deranged hyperbolic hack & slash; non-Euclidean Spyro. Base game free. Available also [on itch.io](https://cancrizans.itch.io/innards) for the time being. (Win, Linux)
-- Aug 2026 | [Anura: a parasite](https://cancrizans.itch.io/anura) schizo-psychopathic pitch-black visual novel. Free. (Win)
+- Aug 2026 | [Anura: a parasite](https://cancrizans.itch.io/anura) schizo-psychopathic pitch-black visual novel. Free. (Web, Win)
 - Jan 2025 | [Tokonoma](https://cancrizans.itch.io/tokonoma) abstract strategy game. Free. (Web, Win)
 - Oct 2024 | [Psilosybil](https://store.steampowered.com/app/1696720/PsiloSybil/) brutal classic 3d platfomer. (Win)
 
