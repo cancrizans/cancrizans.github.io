@@ -27,10 +27,6 @@ I also have these videogame OST as yt playlists:
 - (In progress) [Innards Soundtrack](https://www.youtube.com/watch?v=COKcyVsgDBM&list=PLUm3PzsjK48YGh8_eUHZVdgkb1XoxMUvs)
 
 
-## so-called "art"
-
-Highly NSFW [Art blog](https://bsky.app/profile/cancrizans.bsky.social) on Bluesky.
-
 ## software / research
 
 [gutta](https://github.com/cancrizans/gutta) is a minimalist, modular static site builder for webcomics.
